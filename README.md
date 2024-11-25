@@ -7,13 +7,15 @@ I’m a **Full-Stack Developer** and **Software Engineer** passionate about solv
 
 ## Projects:
 
-| Name            | Description                                                                 | Demo                                    |
-|-----------------|-----------------------------------------------------------------------------|-----------------------------------------|
-| **Goal Pulse**  | A site that allows users to manage their goals effortlessly, designed for goal-oriented individuals. | [Demo](http://goalpulse.vercel.app)     |
-| **Book Dock**   | A site where users can manage books, post, update, delete, view, and search for books by title or author. |                                         |
-| **Roomista**    | A site that assists users in finding various types of rental rooms, offering a wide range of options to suit different preferences and needs. | [Demo](http://roomista.netlify.app)     |
-| **Fit Club**| A site designed for fitness enthusiasts, featuring vibrant design, dynamic content, and seamless user interaction. | [Demo](http://thefitclub.netlify.app)   |
-| **Color Craft** | A site to help designers find and explore colors for their next design project. | [Demo](http://colorcraft-web.netlify.app) |
+| Name            | Description                                                               | Demo                                    |
+|------------------|---------------------------------------------------------------------------|-----------------------------------------|
+| **Gher.com**    | A web application for buying, selling, and discovering properties with advanced filters and admin tools. | [Demo](https://gher.vercel.app)        |
+| **Goal Pulse**  | A web application to manage goals effortlessly, designed for goal-oriented individuals. | [Demo](https://goalpulse.vercel.app)   |
+| **Book Dock**   | A web application to manage, post, update, delete, view, and search books by title or author. | [Demo](https://bookdock.vercel.app)    |
+| **Portfolio**   | A web application template with a unique and interactive design for showcasing developer projects. | [Demo](https://ahadali.netlify.app)    |
+| **Roomista**    | A web application to find rental rooms, offering options for diverse preferences and needs. | [Demo](https://roomista.netlify.app)   |
+| **Fit Club**    | A web application for fitness enthusiasts featuring dynamic content and seamless interaction. | [Demo](https://thefitclub.netlify.app) |
+| **Color Craft** | A web application to explore and find colors for design projects.         | [Demo](https://colorcraft-web.netlify.app) |
 
 
 ## Stats:
