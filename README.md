@@ -40,6 +40,7 @@ I’m a **Full-Stack Developer** and **Software Engineer** passionate about solv
 
 | Name             | Description                                                                                                                                           | Demo                                       |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **Buyno**          | A web application modern multivendor e-commerce platform where sellers can manage shops and buyers can shop, track orders, and chat in real-time with Stripe and PayPal integration. | [Demo](https://buyno.vercel.app) |
 | **KisanBazar**   | A web application and my hackathon-winning project that connects local farmers with consumers to buy fresh, organic produce directly from the source. | [Demo](https://kisanbazar.vercel.app)      |
 | **Gher.com**     | A web application for buying, selling, and discovering properties with advanced filters and admin tools.                                              | [Demo](https://gher.vercel.app)            |
 | **Armostore**    | A web application for clothing manufacturing brand, featuring advanced filtering, smooth transitions, and a fully responsive design.                  | [Demo](https://armostore.ca)               |
