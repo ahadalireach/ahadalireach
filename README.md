@@ -40,6 +40,7 @@ I’m a **Full-Stack Developer** and **Software Engineer** passionate about solv
 
 | Name             | Description                                                                                                                                           | Demo                                       |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **Learneazy** | A modern full-stack LMS web application for instructors and students—offering secure payments, interactive dashboards, instant notifications, advanced analytics, and effortless course creation in a modern, user-friendly platform. | [Demo](https://learneazy.vercel.app) |
 | **Buyno**          | A web application modern multivendor e-commerce platform where sellers can manage shops and buyers can shop, track orders, and chat in real-time with Stripe and PayPal integration. | [Demo](https://buyno.vercel.app) |
 | **KisanBazar**   | A web application and my hackathon-winning project that connects local farmers with consumers to buy fresh, organic produce directly from the source. | [Demo](https://kisanbazar.vercel.app)      |
 | **Gher.com**     | A web application for buying, selling, and discovering properties with advanced filters and admin tools.                                              | [Demo](https://gher.vercel.app)            |
