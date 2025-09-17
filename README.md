@@ -1,8 +1,8 @@
 ## Hey there 👋, my name is **Ahad Ali**
 
-I’m a **Full-Stack Developer** and **Software Engineer** passionate about solving problems and building functional, impactful solutions. Coding allows me to transform ideas into reality, and every project is an opportunity to learn and grow by creating clean, efficient code.
+I'm a **Full-Stack Software Engineer** who builds tech products that are fast, clean, and solve real business problems. I specialize in creating high-performance, user-focused platforms using modern technologies like React/Next.js, Node.js, MongoDB, and TypeScript, with a proven track record of building projects that deliver measurable results.
 
-## Languages and Tools:
+## Core Technologies:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -13,6 +13,7 @@ I’m a **Full-Stack Developer** and **Software Engineer** passionate about solv
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -27,6 +28,7 @@ I’m a **Full-Stack Developer** and **Software Engineer** passionate about solv
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -40,17 +42,18 @@ I’m a **Full-Stack Developer** and **Software Engineer** passionate about solv
 
 | Name             | Description                                                                                                                                           | Demo                                       |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **Learneazy** | A modern full-stack LMS web application for instructors and students—offering secure payments, interactive dashboards, instant notifications, advanced analytics, and effortless course creation in a modern, user-friendly platform. | [Demo](https://learneazy.vercel.app) |
-| **Buyno**          | A web application modern multivendor e-commerce platform where sellers can manage shops and buyers can shop, track orders, and chat in real-time with Stripe and PayPal integration. | [Demo](https://buyno.vercel.app) |
-| **KisanBazar**   | A web application and my hackathon-winning project that connects local farmers with consumers to buy fresh, organic produce directly from the source. | [Demo](https://kisanbazar.vercel.app)      |
-| **Gher.com**     | A web application for buying, selling, and discovering properties with advanced filters and admin tools.                                              | [Demo](https://gher.vercel.app)            |
-| **Armostore**    | A web application for clothing manufacturing brand, featuring advanced filtering, smooth transitions, and a fully responsive design.                  | [Demo](https://armostore.ca)               |
-| **Projects Hub** | A web application with 10 interactive mini React projects, deployed on AWS.                                                                           | [Demo](http://13.60.247.46)                |
-| **Goal Pulse**   | A web application to manage goals effortlessly, designed for goal-oriented individuals.                                                               | [Demo](https://goalpulse.vercel.app)       |
-| **Book Dock**    | A web application to manage, post, update, delete, view, and search books by title or author.                                                         | [Demo](https://bookdock.vercel.app)        |
-| **Roomista**     | A web application to find rental rooms, with options for different budgets and preferences.                                                           | [Demo](https://roomista.netlify.app)       |
-| **Fit Club**     | A website for fitness lovers that shows helpful content and lets users interact easily.                                                               | [Demo](https://thefitclub.netlify.app)     |
-| **Color Craft**  | A web application to explore and find colors for design projects.                                                                                     | [Demo](https://colorcraft-web.netlify.app) |
+| **MoneyMate** | Mobile finance app with multi-wallets, secure auth, and smart money insights. | [Demo](https://youtu.be/0Z-Z25B-mMI?si=2qJTUfas5eCZHEZ0) |
+| **Learneazy** | Full-stack LMS with secure payments, dashboards, analytics, and real-time notifications. | [Demo](https://learneazy.vercel.app) |
+| **Buyno**          | Multi-vendor e-commerce with order tracking, real-time chat, and Stripe/PayPal integration. | [Demo](https://buyno.vercel.app) |
+| **KisanBazar**   | Hackathon-winning platform connecting farmers and consumers for fresh, fair trade produce. | [Demo](https://kisanbazar.vercel.app)      |
+| **Gher.com**     | Real estate app for buying, selling, and exploring properties with over 10 advanced filters.                                             | [Demo](https://gher.vercel.app)            |
+| **Armostore**    | Clothing storefront with advanced filtering, smooth UI, and responsive design.                  | [Demo](https://armostore.ca)               |
+| **Projects Hub** | 10 interactive React projects deployed on AWS to showcase frontend and cloud skills.                                                                           | [Demo](http://13.60.247.46)                |
+| **Goal Pulse**   | Goal-tracking system for productivity-driven users to stay consistent with objectives.                                                               | [Demo](https://goalpulse.vercel.app)       |
+| **Book Dock**    | CRUD-based book management app with search by title and author.                                                         | [Demo](https://bookdock.vercel.app)        |
+| **Roomista**     | Rental discovery app to find rooms by budget and preferences.                                                         | [Demo](https://roomista.netlify.app)       |
+| **Fit Club**     | Fitness website delivering engaging content for health enthusiasts.                                                               | [Demo](https://thefitclub.netlify.app)     |
+| **Color Craft**  | Creative tool to explore and generate color palettes for design projects.                                                                                     | [Demo](https://colorcraft-web.netlify.app) |
 
 ## Stats:
 
@@ -67,7 +70,7 @@ I’m a **Full-Stack Developer** and **Software Engineer** passionate about solv
 
 ## Contact Me:
 
-[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ahadalireach)
+[![Medium](https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahadalireach)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](http://ahadali.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahadalireach)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ahadali.reach@gmail.com)](mailto:ahadali.reach@gmail.com)
